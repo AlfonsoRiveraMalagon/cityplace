@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.config['MYSQL_HOST'] = 'us-cdbr-east-05.cleardb.net' 
 app.config['MYSQL_PORT'] = 3306
 app.config['MYSQL_USER'] = 'b00171aeb62698'
-app.config['MYSQL_PASSWORD'] = 'd51bed04'
+app.config['MYSQL_PASSWORD'] = '123456'
 app.config['MYSQL_DB'] = 'heroku_0431911d94d8b92'
 
 #app.config['MYSQL_HOST'] = 'localhost' 
